@@ -17,4 +17,12 @@ The next challenge I faced was for calculating the total time each algorithm too
 ---
 
 # Results
-After I successfully wrote my code, I ran the program one last time and noted down how much comparisons, movements, and time each sorting function took for both the inorder and random arrays. I have attached the experimental results in the next page. I boxed which functions had the most efficiency in the three categories. For a random array with 50,000 integers, Merge Sort had the most efficiency in the number of comparisons it took. Quick Sort had the least movements and approximate time it took. For the ordered array in ascending order, insertion sort took the least number of comparisons, movements, and time. In the following page, I will explain what each sorting function does, and how well each one performed for both the random and inorder arrays.
+After I successfully wrote my code, I ran the program one last time and noted down how much comparisons, movements, and time each sorting function took for both the inorder and random arrays. I have attached the experimental results in the next page. I boxed which functions had the most efficiency in the three categories. For a random array with 50,000 integers, Merge Sort had the most efficiency in the number of comparisons it took. Quick Sort had the least movements and approximate time it took. For the ordered array in ascending order, insertion sort took the least number of comparisons, movements, and time. 
+
+---
+
+# Random Array size 5000
+![PR1_Output_2](https://github.com/user-attachments/assets/848e6d1e-75d7-4c01-aa5b-242dd48012f0)
+# Reverse Order Array size 5000
+![PR1_Output_3](https://github.com/user-attachments/assets/e8ed9e7e-ba7e-45f5-94d0-b1210402ccc5)
+
